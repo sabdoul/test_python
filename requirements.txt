@@ -1,0 +1,5 @@
+#
+# If developing the project, install the dev dependencies using
+# pip install -r requirements-dev.txt instead. 
+# 
+pandas
